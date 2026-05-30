@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssave",
+        "uuid": 14012658,
+        "checksum": "3fe9i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
